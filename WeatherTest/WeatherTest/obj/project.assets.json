@@ -42,19 +42,19 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/fariz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fariz/tmp/csharp/WeatherTest/WeatherTest/WeatherTest.csproj",
+      "projectUniqueName": "/home/fariz/work/xtramilesolutions/xtramilesolutions-practical-test/WeatherTest/WeatherTest/WeatherTest.csproj",
       "projectName": "WeatherTest",
-      "projectPath": "/home/fariz/tmp/csharp/WeatherTest/WeatherTest/WeatherTest.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/fariz/tmp/csharp/WeatherTest/WeatherTest/obj/",
+      "projectPath": "/home/fariz/work/xtramilesolutions/xtramilesolutions-practical-test/WeatherTest/WeatherTest/WeatherTest.csproj",
+      "packagesPath": "/home/fariz/.nuget/packages/",
+      "outputPath": "/home/fariz/work/xtramilesolutions/xtramilesolutions-practical-test/WeatherTest/WeatherTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/fariz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
