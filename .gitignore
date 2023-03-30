@@ -1,3 +1,6 @@
 ./WeatherTest/WeatherTest/ClientApp/node_modules/
+./WeatherTest/WeatherTest/ClientApp/node_modules/*
 ./WeatherTest/WeatherTest/bin/
+./WeatherTest/WeatherTest/bin/*
 ./WeatherTest/WeatherTest/obj/
+./WeatherTest/WeatherTest/obj/*
