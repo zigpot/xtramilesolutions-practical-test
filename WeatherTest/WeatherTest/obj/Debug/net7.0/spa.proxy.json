@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:44438",
-"LaunchCommand": "npm start",
-"WorkingDirectory": "/home/fariz/work/xtramilesolutions-practical-test/WeatherTest/WeatherTest/ClientApp/",
-"MaxTimeoutInSeconds": "120"
-}
-}
